@@ -1,16 +1,14 @@
-### Hi there 👋
+**Olá, eu sou a Monick, bem vind@ ao meu perfil!** 😉
 
-<!--
-**monickhelenn0/monickhelenn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Atualmente trabalho como helpdesk/suporte e estou buscando conhecimento para garantir minha primeira experiência profissional com desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/D4D35AQHDvabFhKunrw/profile-framedphoto-shrink_200_200/0/1674129045724?e=1677470400&v=beta&t=onov6VVJAcGwhZO4Nkj2GswYv4ywpKfOyh-_c417SDM">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https:https://www.linkedin.com/in/monickhelenn0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
